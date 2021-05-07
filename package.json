@@ -9,7 +9,7 @@
   "author": "Hebert Montarroyos",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.3.0",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-coffee": "^2.1.0",
